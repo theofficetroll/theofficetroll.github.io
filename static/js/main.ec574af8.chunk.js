@@ -1,2 +1,0 @@
-(this["webpackJsonptheofficetroll.github.io"]=this["webpackJsonptheofficetroll.github.io"]||[]).push([[0],{9:function(t,e,i){"use strict";i.r(e);i(0);var o=i(3),n=i.n(o),c=i(1),r=function(t){return Object(c.jsx)("div",{children:"WIP"})};n.a.render(Object(c.jsx)(r,{}),document.getElementById("root"))}},[[9,1,2]]]);
-//# sourceMappingURL=main.ec574af8.chunk.js.map
