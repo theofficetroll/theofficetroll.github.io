@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/theofficetroll.github.io/static/css/main.af109fe1.chunk.css",
-    "main.js": "/theofficetroll.github.io/static/js/main.581e816d.chunk.js",
-    "main.js.map": "/theofficetroll.github.io/static/js/main.581e816d.chunk.js.map",
+    "main.js": "/theofficetroll.github.io/static/js/main.a2ed7520.chunk.js",
+    "main.js.map": "/theofficetroll.github.io/static/js/main.a2ed7520.chunk.js.map",
     "runtime-main.js": "/theofficetroll.github.io/static/js/runtime-main.2266d2b5.js",
     "runtime-main.js.map": "/theofficetroll.github.io/static/js/runtime-main.2266d2b5.js.map",
     "static/js/2.52340c2a.chunk.js": "/theofficetroll.github.io/static/js/2.52340c2a.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.2266d2b5.js",
     "static/js/2.52340c2a.chunk.js",
     "static/css/main.af109fe1.chunk.css",
-    "static/js/main.581e816d.chunk.js"
+    "static/js/main.a2ed7520.chunk.js"
   ]
 }
