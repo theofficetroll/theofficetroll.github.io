@@ -2,6 +2,11 @@ import React, { useState, useEffect } from 'react';
 
 import Topbar from './topbar';
 import Navbar from './navbar';
+import Tier from './tier';
+
+// TODO
+// Add variables holding data to be pushed to Tier
+// Probably refactor to build an array of Tiers
 
 const App = (props) => {
   const today = new Date();
@@ -27,6 +32,7 @@ const App = (props) => {
     <div>
       <Topbar />
       <Navbar countdown={allSeconds} />
+      <Tier items="" headerText=""/>
     </div>
   )
 }

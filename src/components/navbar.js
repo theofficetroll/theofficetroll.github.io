@@ -1,14 +1,10 @@
 import React, { useEffect, useState } from 'react';
 import './navbar.css';
 
-import CountdownNumber from './countdownNumber.js';
-
 // TODO
 // Replace B with bell icon
 // Figure out what to replace tier costs with
 // Once other areas are opened up, add function to move to that part of the page
-
-
 
 const Navbar = (props) => {
 
