@@ -32,7 +32,7 @@ const App = (props) => {
     <div>
       <Topbar />
       <Navbar countdown={allSeconds} />
-      <Tier items="" headerText=""/>
+      <Tier items="" headerText="THIS IS HEADER TEXT"/>
     </div>
   )
 }
