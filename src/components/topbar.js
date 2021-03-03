@@ -2,7 +2,13 @@ import React from 'react';
 import './topbar.css';
 
 // TODO
-// Make dynamic
+// Fix dynamics
+//  Search bar wrong size
+//  Spacing wrong, may need to change grouping
+//  Logo through About all left-aligned
+//  All others right-aligned
+//  Increase space between
+//  If width below a certain threshold, only show logo and search bar
 // Put in a logo
 // Make carets into drop-downs
 // Make search clickable and so you can input data
