@@ -6,6 +6,13 @@ html body {
   background-color: #31343C;
 }
 .navbar {
+  box-shadow: 1px 2px 3px rgba(0,0,0,0.45);
+  position: fixed;
+  left: 0;
+  right: 0;
+  z-index: 200;
+  height: 50px;
+  transition: top .2s ease-in-out;
   align-items: center;
   background-color: #49505C;
   box-sizing: content-box;
@@ -18,17 +25,24 @@ html body {
   height: 66px;
   line-height: 65px;
   margin: 0;
-  /* max-width: 1500px; */
   padding: 0 10px;
   pointer-events: none;
   position: relative;
   text-transform: uppercase;
   top: 0;
   width: auto;
-  z-index: 300;
+  display: flex;
+  justify-content: space-between;
 }
 .navbar-button {
   padding: 0 15px;
+  color: #d8d8da;
+  font-size: 14px;
+  display: inline-block;
+  height: 50px;
+  line-height: 50px;
+  box-sizing: border-box;
+  padding: 0 20px;
 }
 .caret-down {
   font: normal normal normal 14px/1;

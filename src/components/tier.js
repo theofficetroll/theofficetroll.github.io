@@ -21,7 +21,8 @@ const Tier = (props) => {
     <div className="tier">
       {headerText}
       <br />
-      {itemsArray}
+      {/* {itemsArray} */}
+      <Item key="1" itemDetails="" />
     </div>
   )
 }

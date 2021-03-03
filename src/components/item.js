@@ -7,7 +7,18 @@ import './item.css';
 // Also rewrite app.js to pull data from a JSON store or similar
 
 const Item = (props) => {
-  const { itemDetails, key } = props;
+  // will need to add itemDetails here
+  const { key } = props;
+
+  //temp data
+  const itemDetails = {
+    availability: "browser",
+    feedback: {
+      positiveReviews: 100,
+      numberOfReviews: 98,
+      reviewsFrom: "A little help from my friends",
+    }
+  }
 
   return (
     <div className="item-view">

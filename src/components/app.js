@@ -7,6 +7,15 @@ import Tier from './tier';
 // TODO
 // Add variables holding data to be pushed to Tier
 // Probably refactor to build an array of Tiers
+// Refactor to use React Router to load About and other pages
+//
+// Charity component (can reuse Item component?) - may also be able to reuse Tier and refactor?
+//  Not sure if enough differences to be worth  it
+// Get Notified section (not a separate component?)
+// Details component
+// Top Contributors component?
+// Purchase component
+// Footer component
 
 const App = (props) => {
   const today = new Date();
