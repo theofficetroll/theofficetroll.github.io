@@ -3,6 +3,7 @@ import React, { useState, useEffect } from 'react';
 import Topbar from './topbar';
 import Navbar from './navbar';
 import Tier from './tier';
+import Footer from './footer';
 
 // TODO
 // Add variables holding data to be pushed to Tier
@@ -42,6 +43,7 @@ const App = (props) => {
       <Topbar />
       <Navbar countdown={allSeconds} />
       <Tier items="" headerText="THIS IS HEADER TEXT"/>
+      <Footer />
     </div>
   )
 }
