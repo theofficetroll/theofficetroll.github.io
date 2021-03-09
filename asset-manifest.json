@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/theofficetroll.github.io/static/css/main.e86d1081.chunk.css",
+    "main.css": "/theofficetroll.github.io/static/css/main.c886bddf.chunk.css",
     "main.js": "/theofficetroll.github.io/static/js/main.c4e6c9b0.chunk.js",
     "main.js.map": "/theofficetroll.github.io/static/js/main.c4e6c9b0.chunk.js.map",
     "runtime-main.js": "/theofficetroll.github.io/static/js/runtime-main.2266d2b5.js",
@@ -8,13 +8,13 @@
     "static/js/2.e5c5292f.chunk.js": "/theofficetroll.github.io/static/js/2.e5c5292f.chunk.js",
     "static/js/2.e5c5292f.chunk.js.map": "/theofficetroll.github.io/static/js/2.e5c5292f.chunk.js.map",
     "index.html": "/theofficetroll.github.io/index.html",
-    "static/css/main.e86d1081.chunk.css.map": "/theofficetroll.github.io/static/css/main.e86d1081.chunk.css.map",
+    "static/css/main.c886bddf.chunk.css.map": "/theofficetroll.github.io/static/css/main.c886bddf.chunk.css.map",
     "static/js/2.e5c5292f.chunk.js.LICENSE.txt": "/theofficetroll.github.io/static/js/2.e5c5292f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2266d2b5.js",
     "static/js/2.e5c5292f.chunk.js",
-    "static/css/main.e86d1081.chunk.css",
+    "static/css/main.c886bddf.chunk.css",
     "static/js/main.c4e6c9b0.chunk.js"
   ]
 }
