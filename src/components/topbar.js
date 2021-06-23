@@ -17,26 +17,28 @@ import './topbar.css';
 const Topbar = (props) => {
   return (
     <div class="navbar">
-      <div class="navbar-button">
-        HumbleLogo
-      </div>
-      <div class="navbar-button">
-        100 Projects
-        <i class="caret-down">
-          &#9660;
-        </i>
-      </div>
-      <div class="navbar-button">
-        Choice
-      </div>
-      <div class="navbar-button">
-        Store
-      </div>
-      <div class="navbar-button">
-        About
-        <i class="caret-down">
-          &#9660;
-        </i>
+      <div class="navbar-left navbar-button">
+        <div class="navbar-button">
+            HumbleLogo
+        </div>
+        <div class="navbar-button">
+          100 Projects
+          <i class="caret-down">
+            &#9660;
+          </i>
+        </div>
+        <div class="navbar-button">
+          Choice
+        </div>
+        <div class="navbar-button">
+          Store
+        </div>
+        <div class="navbar-button">
+          About
+          <i class="caret-down">
+            &#9660;
+          </i>
+        </div>
       </div>
       <div class="navbar-button searchbar">
         <div id="site-search" class="search">

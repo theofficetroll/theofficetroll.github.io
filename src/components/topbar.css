@@ -42,7 +42,7 @@ html body {
   height: 50px;
   line-height: 50px;
   box-sizing: border-box;
-  padding: 0 20px;
+  padding: 15px;
 }
 .caret-down {
   font: normal normal normal 14px/1;
@@ -119,4 +119,15 @@ html body {
   vertical-align: middle;
   border-radius: 4px 0 0 4px;
   margin-left: -2px;
+}
+.navbar-left {
+  min-width: 70em;
+  margin-right: 15px;
+  align-items: center;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-around;
+  padding-right: 40px;
+  position: fixed;
+  float: left;
 }

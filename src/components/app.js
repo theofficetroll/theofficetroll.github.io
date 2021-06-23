@@ -26,8 +26,7 @@ const App = (props) => {
   sundayNoon.setDate(sundayNoon.getDate() + daysToSunday);
   sundayNoon.setHours(12,0,0,0);
 
-  let [ allSeconds ] = useState(Math.ceil((sundayNoon - today) / 1000));
-  const [ setAllSeconds ] = useState(0);
+  const [ allSeconds, setAllSeconds ] = useState(Math.ceil((sundayNoon - today) / 1000));
 
   useEffect(() => {
     const interval = setInterval(() => {
